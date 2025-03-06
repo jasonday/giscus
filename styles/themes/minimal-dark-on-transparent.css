@@ -63,7 +63,7 @@ main {
   --color-fg-default: #0e1116;
   --color-fg-muted: #0e1116;
   --color-fg-subtle: #66707b;
-  --color-canvas-default: #fff;
+  --color-canvas-default: transparent;
   --color-canvas-overlay: #fff;
   --color-canvas-inset: #fff;
   --color-canvas-subtle: #e7ecf0;
